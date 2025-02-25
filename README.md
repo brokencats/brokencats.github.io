@@ -1,1 +1,1 @@
-# brokencats.github.io
+[Go to website](https://brokencats.github.io)
